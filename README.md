@@ -6,3 +6,5 @@ My exercises with prose
   jogging.txt - Jogging, June 2020
 
 /cadet - Moments of a cadet's life
+
+  abitura.txt - Life of an applicant in a campground, 
