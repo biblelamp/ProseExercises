@@ -7,4 +7,6 @@ My exercises with prose
 
 /cadet - Moments of a cadet's life
 
-  abitura.txt - Life of an applicant in a campground, 
+  foreword.txt - Foreword to the book
+  thanks.txt - Dedication and thanks
+  abitura.txt - Life of an applicant in a campground, 17 July 1983
