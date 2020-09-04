@@ -3,7 +3,8 @@ My exercises with prose
 
 /life - Moments of life
 
-  jogging.txt - Jogging, June 2020
+  iwentto.txt - I went to college, August 1987
+  jogging.txt - Jogging through the forest and village, June 2020
 
 /cadet - Moments of a cadet's life
 
