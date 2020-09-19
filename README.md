@@ -12,7 +12,7 @@ My exercises with prose
   thanks.txt - Dedication and thanks
   abitura.txt - Life of an applicant in a campground, 17 July 1983
   systema.txt - I'm a newly minted cadet, moving to Riga, 30 July 1983
-  mama.txt - 
+  mama.txt - A short meeting with mom and goodbye to childhood, 3 October 1983
   krysa.txt - 
   otpusk.txt - 
   kolbasa.txt - 
