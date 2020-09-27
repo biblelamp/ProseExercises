@@ -16,4 +16,4 @@ My exercises with prose
   krysa.txt - We catch a thief who steals money at night in the barracks, Fall 1983
   otpusk.txt - My first holiday, 28 Jan - 10 Feb 1984
   kolbasa.txt - Funni story with sausage, Feb 1984
-  zvetochek.txt - 
+  zvetochek.txt - Meeting with a charming girl, 17 March 1984
