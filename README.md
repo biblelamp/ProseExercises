@@ -17,3 +17,13 @@ My exercises with prose
   otpusk.txt - My first holiday, 28 Jan - 10 Feb 1984
   kolbasa.txt - Funni story with sausage, Feb 1984
   zvetochek.txt - Meeting with a charming girl, 17 March 1984
+  lena.txt - 
+  chasovoy.txt - 
+  samovolka.txt - 
+  vybory.txt - 
+  kotlety.txt - 
+  kolzo.txt - 
+  sokamernik.txt - 
+  vecerinka.txt - 
+  beguny.txt - 
+  nezachet.txt - 
