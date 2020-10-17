@@ -17,8 +17,8 @@ My exercises with prose
   otpusk.txt - My first holiday, 28 Jan - 10 Feb 1984
   kolbasa.txt - Funni story with sausage, Feb 1984
   zvetochek.txt - Meeting with a charming girl, 17 March 1984
-  lena.txt - 
-  chasovoy.txt - 
+  lena.txt - The final break in relations with Ira and a new perspective, 7 Oct 1984
+  chasovoy.txt - I guard the military motor pool as a sentry, Winter 1985
   samovolka.txt - 
   vybory.txt - 
   kotlety.txt - 
