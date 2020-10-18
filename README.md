@@ -20,7 +20,7 @@ My exercises with prose
   lena.txt - The final break in relations with Ira and a new perspective, 7 Oct 1984
   chasovoy.txt - I guard the military motor pool as a sentry, Winter 1985
   samovolka.txt - ..., Feb 985
-  vybory.txt - 
+  vybory.txt - ..., 24 Feb 1985
   kotlety.txt - 
   kolzo.txt - 
   sokamernik.txt - 
