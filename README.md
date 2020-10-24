@@ -21,7 +21,7 @@ My exercises with prose
   chasovoy.txt - I guard the military motor pool as a sentry, Winter 1985
   samovolka.txt - ..., Feb 985
   vybory.txt - ..., 24 Feb 1985
-  kotlety.txt - 
+  kotlety.txt - ..., Apr 1985
   kolzo.txt - 
   sokamernik.txt - 
   vecerinka.txt - 
