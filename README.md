@@ -22,7 +22,7 @@ My exercises with prose
   samovolka.txt - ..., Feb 985
   vybory.txt - ..., 24 Feb 1985
   kotlety.txt - ..., Apr 1985
-  kolzo.txt - 
+  kolzo.txt - ..., Fall 1985
   sokamernik.txt - 
   vecerinka.txt - 
   beguny.txt - 
