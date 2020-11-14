@@ -23,7 +23,7 @@ My exercises with prose
   vybory.txt - ..., 24 Feb 1985
   kotlety.txt - ..., Apr 1985
   kolzo.txt - ..., Fall 1985
-  sokamernik.txt - 
+  sokamernik.txt - ..., Feb 1986
   vecerinka.txt - 
   beguny.txt - 
   nezachet.txt - 
