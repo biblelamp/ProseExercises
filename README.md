@@ -24,6 +24,6 @@ My exercises with prose
   kotlety.txt - ..., Apr 1985
   kolzo.txt - ..., Fall 1985
   sokamernik.txt - ..., Feb 1986
-  vecerinka.txt - 
+  vecerinka.txt - ..., Winter 1986
   beguny.txt - 
   nezachet.txt - 
