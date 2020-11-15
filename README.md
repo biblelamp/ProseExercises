@@ -19,11 +19,11 @@ My exercises with prose
   zvetochek.txt - Meeting with a charming girl, 17 March 1984
   lena.txt - The final break in relations with Ira and a new perspective, 7 Oct 1984
   chasovoy.txt - I guard the military motor pool as a sentry, Winter 1985
-  samovolka.txt - ..., Feb 985
-  vybory.txt - ..., 24 Feb 1985
-  kotlety.txt - ..., Apr 1985
-  kolzo.txt - ..., Fall 1985
-  sokamernik.txt - ..., Feb 1986
-  vecerinka.txt - ..., Winter 1986
+  samovolka.txt - My first night date and my first AWOL from military school, Feb 985
+  vybory.txt - What "democracy" looks like in the Soviet army, 24 Feb 1985
+  kotlety.txt - Fun kitchen outfit story, with a not-so-fun ending, Apr 1985
+  kolzo.txt - The second meeting with the general, the head of the school, Fall 1985
+  sokamernik.txt - Realities of the Soviet military brig, Feb 1986
+  vecerinka.txt - How we have fun during winter military exercises, Winter 1986
   beguny.txt - 
   nezachet.txt - 
