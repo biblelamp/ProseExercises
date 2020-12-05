@@ -25,5 +25,5 @@ My exercises with prose
   kolzo.txt - The second meeting with the general, the head of the school, Fall 1985
   sokamernik.txt - Realities of the Soviet military brig, Feb 1986
   vecerinka.txt - How we have fun during winter military exercises, Winter 1986
-  beguny.txt - , Spring 1986
+  beguny.txt - Running with a comrade over the fence and meeting the colonel, Spring 1986
   nezachet.txt - 
