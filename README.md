@@ -3,7 +3,7 @@ My exercises with prose
 
 /life - Moments of life
 
-  iwentto.txt - I was admitted to the institute, August 1987
+  abiturient.txt - I entered my institute, August 1987
   jogging.txt - Jogging through the forest and village, June 2020
 
 /cadet - Moments of a cadet's life
